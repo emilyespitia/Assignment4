@@ -1,0 +1,10 @@
+.text-color {
+  color: orange;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+ul li {
+  display: inline;
+}
