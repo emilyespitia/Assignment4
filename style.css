@@ -9,12 +9,6 @@ ul li {
   display: inline;
 }
 
-/* .logo{
-  margin-left: auto;
-  display: block;
-  width: 40%
-} */
-
 .relative{
   position: relative;
   width : 400px;
@@ -33,7 +27,6 @@ ul li {
   border: 3px solid #73AD21;
 }
 
-
 .absolute {
   position: absolute;
   top: 80px;
@@ -42,10 +35,10 @@ ul li {
   height: 100px;
   border: 3px solid #73AD21;
 }
+
 .floaty {
   float: left;
 }
-
 
 @keyframes grow {
   from {width: 100px;
