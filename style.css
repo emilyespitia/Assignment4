@@ -41,3 +41,16 @@ ul li {
 .floaty {
   float: left;
 }
+
+
+@keyframes grow {
+  from {width: 100px;
+    height: 100px;}
+  to {width: 200px;
+  height: 200px}
+}
+
+.animation{
+  animation-name: grow;
+  animation-duration: 4s;
+}
